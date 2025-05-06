@@ -1,6 +1,6 @@
 Steps by Step User Manual:
 
-1. Open the FYP_Project folder in Jupyter Notebook
+1. Download the zip file, extract and open the folder in Jupyter Notebook 
 
 2. Open FYP1 folder for initial data exploration or open FYP2 folder for model and dashboard development
 
@@ -17,8 +17,8 @@ Important Notice, please take note!!!
 
 1. Please ensure that you have installed Jupyter Notebook and Tableau beforehand
 
-2. DO NOT save the tableau workbook by any means
+2. DO NOT change the project folder location in your PC/Desktop once you saved the Tableau Workbook as it may cause file directory issues
 
-3. DO NOT manually edit the connection in the data source of the tableau workbook
+3. DO NOT manually edit the connection for the data source of the Tableau Workbook as it may lead to connectivity concerns
 
-4. Follow the rules mentioned above to avoid any errors from occurring
+4. Please adhere to the rules mentioned above to avoid any errors from occurring, anyways do enjoy the project :)
